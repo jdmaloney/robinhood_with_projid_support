@@ -1,0 +1,17 @@
+.//usr/bin/rbh-du
+.//usr/bin/rbh-find
+.//usr/sbin/lhsmtool_cmd
+.//usr/sbin/rbh-diff
+.//usr/sbin/rbh-rebind
+.//usr/sbin/rbh-report
+.//usr/sbin/rbh-undelete
+.//usr/sbin/robinhood
+.//usr/share/robinhood/tests/create-random
+.//usr/lib64/robinhood/librbh_mod_alerter.so.0.0.0
+.//usr/lib64/robinhood/librbh_mod_backup.so.0.0.0
+.//usr/lib64/robinhood/librbh_mod_basic.so.0.0.0
+.//usr/lib64/robinhood/librbh_mod_checker.so.0.0.0
+.//usr/lib64/robinhood/librbh_mod_common.so.0.0.0
+.//usr/lib64/robinhood/librbh_mod_lhsm.so.0.0.0
+.//usr/lib64/robinhood/librbh_mod_modeguard.so.0.0.0
+.//usr/lib64/robinhood/librbh_mod_test.so.0.0.0

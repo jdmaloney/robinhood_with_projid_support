@@ -1,0 +1,11 @@
+[Unit]
+Description=Robinhood server for %I
+
+[Service]
+Type=simple
+KillMode=mixed
+EnvironmentFile=-/etc/sysconfig/robinhood
+EnvironmentFile=-/etc/sysconfig/robinhood.%I
+LimitNOFILE=8096
+ExecStart=/usr/sbin/robinhood $RBH_OPT -f /etc/robinhood.d/%I.conf
+ExecReload=/bin/kill -HUP $MAINPID

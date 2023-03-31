@@ -1,0 +1,28 @@
+%dir /usr/lib/debug
+%dir /usr/lib/debug/usr
+%dir /usr/lib/debug/usr/lib64
+%dir /usr/lib/debug/usr/lib64/robinhood
+%dir /usr/lib/debug/usr/share
+%dir /usr/lib/debug/usr/share/robinhood
+%dir /usr/lib/debug/usr/share/robinhood/tests
+%dir /usr/lib/debug/usr/sbin
+%dir /usr/lib/debug/usr/bin
+%dir /usr/lib/debug/.dwz
+/usr/lib/debug/usr/lib64/robinhood/librbh_mod_basic.so.0.0.0-3.1.7-1.lustre2.14.el8.x86_64.debug
+/usr/lib/debug/usr/lib64/robinhood/librbh_mod_alerter.so.0.0.0-3.1.7-1.lustre2.14.el8.x86_64.debug
+/usr/lib/debug/usr/lib64/robinhood/librbh_mod_modeguard.so.0.0.0-3.1.7-1.lustre2.14.el8.x86_64.debug
+/usr/lib/debug/usr/lib64/robinhood/librbh_mod_backup.so.0.0.0-3.1.7-1.lustre2.14.el8.x86_64.debug
+/usr/lib/debug/usr/lib64/robinhood/librbh_mod_checker.so.0.0.0-3.1.7-1.lustre2.14.el8.x86_64.debug
+/usr/lib/debug/usr/lib64/robinhood/librbh_mod_test.so.0.0.0-3.1.7-1.lustre2.14.el8.x86_64.debug
+/usr/lib/debug/usr/lib64/robinhood/librbh_mod_lhsm.so.0.0.0-3.1.7-1.lustre2.14.el8.x86_64.debug
+/usr/lib/debug/usr/lib64/robinhood/librbh_mod_common.so.0.0.0-3.1.7-1.lustre2.14.el8.x86_64.debug
+/usr/lib/debug/usr/share/robinhood/tests/create-random-3.1.7-1.lustre2.14.el8.x86_64.debug
+/usr/lib/debug/usr/sbin/lhsmtool_cmd-3.1.7-1.lustre2.14.el8.x86_64.debug
+/usr/lib/debug/usr/sbin/rbh-rebind-3.1.7-1.lustre2.14.el8.x86_64.debug
+/usr/lib/debug/usr/sbin/rbh-diff-3.1.7-1.lustre2.14.el8.x86_64.debug
+/usr/lib/debug/usr/sbin/robinhood-3.1.7-1.lustre2.14.el8.x86_64.debug
+/usr/lib/debug/usr/sbin/rbh-undelete-3.1.7-1.lustre2.14.el8.x86_64.debug
+/usr/lib/debug/usr/sbin/rbh-report-3.1.7-1.lustre2.14.el8.x86_64.debug
+/usr/lib/debug/usr/bin/rbh-find-3.1.7-1.lustre2.14.el8.x86_64.debug
+/usr/lib/debug/usr/bin/rbh-du-3.1.7-1.lustre2.14.el8.x86_64.debug
+/usr/lib/debug/.dwz/robinhood-3.1.7-1.lustre2.14.el8.x86_64
