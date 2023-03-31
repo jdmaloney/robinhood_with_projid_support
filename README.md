@@ -1,5 +1,5 @@
 # Notice
-## This repo is a version of Robinhood 3.1.7.0 that has additional patches to support Lustre Project IDs in the database
+## This repo is a version of Robinhood 3.1.7.0 that has additional patches to support Lustre 2.15 and Project IDs in the database
 
 
 I - License
